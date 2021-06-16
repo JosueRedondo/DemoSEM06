@@ -84,7 +84,7 @@ header > #toggle::after{
     position: relative;
     width: 100%;
     min-height: 100vh;
-    background: url(content/images/bg.jpg);
+    background: url(../Content/images/bg.jpg);
     background-size: cover;
     display: flex;
     align-items: center;
